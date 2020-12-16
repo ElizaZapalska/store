@@ -1,0 +1,11 @@
+.footer-container {
+    background: linear-gradient(90deg, #2C1320 0%, #5F4B66 100%);
+    color: white;
+    height: 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 1.2rem;
+
+    font-family: 'Marcellus SC', serif;
+}

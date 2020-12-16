@@ -1,20 +1,44 @@
 .hero {
+    margin-top: 70px;
     text-align: center;
     font-family: 'Marcellus SC', serif;
     font-size: 2em;
     color: #56667A;
 
+
 }
 
 .image {
+    position: relative;
     justify-content: center;
     align-items: center;
-    margin: auto;
+    margin-bottom: 100px;
     width: 100%;
     text-align: center;
     display: flex;
-    
+
+
 }
+
+.button-container {
+    position: absolute;
+    top: 70%;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+
+}
+
+.btn {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+
+}
+
+
+
 .kkk {
     color: #A7ADC6;
     color: #8797AF;
