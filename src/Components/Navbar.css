@@ -5,7 +5,7 @@
     justify-content: center;
     align-items: center;
     font-size: 1.2rem;
-    
+
     font-family: 'Marcellus SC', serif;
 }
 
@@ -46,6 +46,7 @@
     text-decoration: none;
     padding: 0.5rem 1rem;
     height: 100%;
+    justify-content: center;
 
 }
 
@@ -62,7 +63,7 @@
 }
 
 .navbar-mobile-list {
-    padding-top: 10px;
+    padding-top: 5px;
     color: #2C1320;
     list-style: none;
     width: 70vw;
@@ -71,6 +72,7 @@
     text-align: center;
     align-items: center;
     justify-content: center;
+
 }
 
 

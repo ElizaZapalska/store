@@ -1,0 +1,24 @@
+.hero {
+    text-align: center;
+    font-family: 'Marcellus SC', serif;
+    font-size: 2em;
+    color: #56667A;
+
+}
+
+.image {
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    width: 100%;
+    text-align: center;
+    display: flex;
+    
+}
+.kkk {
+    color: #A7ADC6;
+    color: #8797AF;
+    color: #56667A;
+    color: #2C1320;
+    color: #5F4B66;
+}
