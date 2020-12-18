@@ -28,6 +28,7 @@ function Navbar() {
         <nav id={"navbar"} className={'navbar'}>
         <div id={"navbar-container"} className={'navbar-container'}>
             <ul id={"navbar-list"} className={"navbar-list"}>
+                <li className={"nav-item"}><Link className={"nav-link"} to={"/"}>Home</Link></li>
                 <li className={"nav-item"}><Link className={"nav-link"} to={"/products-page"}>Products</Link></li>
                 <li className={"nav-item"}><Link className={"nav-link"} to={"/aboutus-page"}>About Us</Link></li>
                 <li className={"nav-item"}><Link className={"nav-link"} to={"/login-page"}>Log In</Link></li>
